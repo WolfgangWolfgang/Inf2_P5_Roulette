@@ -7,9 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel>
-            <Label x:Name="Name" Content="Das ist ein Test"/>
-
-        </StackPanel>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_Menu">
+                    <MenuItem Header="_Hilfe" Click="mnuHilfe_Click"/>
+                    <MenuItem Header="_Bestenliste" Click="mnuBestenListe_Click"/>
+                    <MenuItem Header="_Save" Click="mnuSave_Click"/>
+                    <Separator/>
+                    <MenuItem Header="_Exit" Click="mnuExit_Click"/>
+                </MenuItem>
+                
+                <MenuItem Header="_Schwieriegkeitsgrad">
+                    <MenuItem Header="_Normal" Click="mnuNormal_Click"/>
+                    <MenuItem Header="_Unbesiegbar" Click="mnuUnbesiegbar_Click"/>
+                </MenuItem>
+            </Menu>
+            <TextBox AcceptsReturn="True"/>
+        </DockPanel>
     </Grid>
 </Window>

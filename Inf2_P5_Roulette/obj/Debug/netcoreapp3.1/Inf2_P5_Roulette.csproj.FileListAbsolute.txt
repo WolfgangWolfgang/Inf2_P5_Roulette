@@ -17,3 +17,8 @@ C:\Users\Mts\source\repos\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp
 C:\Users\Mts\source\repos\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.dll
 C:\Users\Mts\source\repos\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.pdb
 C:\Users\Mts\source\repos\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.genruntimeconfig.cache
+C:\Users\Wolfgang\Documents\GitHub\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.csproj.AssemblyReference.cache
+C:\Users\Wolfgang\Documents\GitHub\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Wolfgang\Documents\GitHub\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette_MarkupCompile.cache
+C:\Users\Wolfgang\Documents\GitHub\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.dll
+C:\Users\Wolfgang\Documents\GitHub\Inf2_P5_Roulette\Inf2_P5_Roulette\obj\Debug\netcoreapp3.1\Inf2_P5_Roulette.pdb
