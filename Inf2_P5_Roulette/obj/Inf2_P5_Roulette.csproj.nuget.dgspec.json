@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mts\\source\\repos\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj": {}
+    "C:\\Users\\Wolfgang\\Documents\\GitHub\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mts\\source\\repos\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj": {
+    "C:\\Users\\Wolfgang\\Documents\\GitHub\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mts\\source\\repos\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfgang\\Documents\\GitHub\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj",
         "projectName": "Inf2_P5_Roulette",
-        "projectPath": "C:\\Users\\Mts\\source\\repos\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj",
-        "packagesPath": "C:\\Users\\Mts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mts\\source\\repos\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\obj\\",
+        "projectPath": "C:\\Users\\Wolfgang\\Documents\\GitHub\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\Inf2_P5_Roulette.csproj",
+        "packagesPath": "C:\\Users\\Wolfgang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wolfgang\\Documents\\GitHub\\Inf2_P5_Roulette\\Inf2_P5_Roulette\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mts\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Wolfgang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
